@@ -2,9 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:TapSwiftFixes.xcodeproj">
+      location = "group:/Users/osamarabie/Desktop/Tap/TapSwiftFixesV2/TapSwiftFixesV2.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TapSwiftFixesV2.xcodeproj">
    </FileRef>
 </Workspace>

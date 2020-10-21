@@ -38,7 +38,7 @@
 		A43ED5071E2F9BAD00CD1547 /* TapSwiftFixesiOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TapSwiftFixesiOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A43ED50A1E2F9BAD00CD1547 /* TapSwiftFixesiOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TapSwiftFixesiOS.h; sourceTree = "<group>"; };
 		A43ED50B1E2F9BAD00CD1547 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A442468F1F1F52DF00179F80 /* TapSwiftFixes.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TapSwiftFixes.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A442468F1F1F52DF00179F80 /* TapSwiftFixesV2.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TapSwiftFixesV2.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A46115792080DF4000217063 /* ThreadingFixes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThreadingFixes.swift; sourceTree = "<group>"; };
 		A461157B2080DF4800217063 /* ExceptionCatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExceptionCatcher.h; sourceTree = "<group>"; };
 		A461157C2080DF4800217063 /* ExceptionCatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExceptionCatcher.m; sourceTree = "<group>"; };
@@ -128,7 +128,7 @@
 		A43ED4FD1E2F9BAD00CD1547 = {
 			isa = PBXGroup;
 			children = (
-				A442468F1F1F52DF00179F80 /* TapSwiftFixes.podspec */,
+				A442468F1F1F52DF00179F80 /* TapSwiftFixesV2.podspec */,
 				148C98EE2224377A00BF0D45 /* Common */,
 				A43ED5091E2F9BAD00CD1547 /* TapSwiftFixesiOS */,
 				148C98E72224376200BF0D45 /* TapSwiftFixesMac */,
@@ -281,7 +281,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A43ED5011E2F9BAD00CD1547 /* Build configuration list for PBXProject "TapSwiftFixes" */;
+			buildConfigurationList = A43ED5011E2F9BAD00CD1547 /* Build configuration list for PBXProject "TapSwiftFixesV2" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -640,7 +640,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A43ED5011E2F9BAD00CD1547 /* Build configuration list for PBXProject "TapSwiftFixes" */ = {
+		A43ED5011E2F9BAD00CD1547 /* Build configuration list for PBXProject "TapSwiftFixesV2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A43ED50D1E2F9BAD00CD1547 /* Debug */,
