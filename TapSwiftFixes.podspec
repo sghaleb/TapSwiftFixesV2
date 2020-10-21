@@ -7,11 +7,11 @@ Pod::Spec.new do |s|
     s.name					= 'TapSwiftFixesV2'
     s.summary				= 'Useful additions that are missing in Swift.'
     s.requires_arc			= true
-    s.version				= '1.0.9'
+    s.version				= '1.0.0'
     s.license				= { :type => 'MIT', :file => 'LICENSE' }
     s.author				= { 'Tap Payments' => 'hello@tap.company' }
-    s.homepage				= 'https://github.com/Tap-Payments/TapSwiftFixes'
-    s.source				= { :git => 'https://github.com/Tap-Payments/TapSwiftFixes.git', :tag => s.version.to_s }
+    s.homepage				= 'https://github.com/Tap-Payments/TapSwiftFixesV2'
+    s.source				= { :git => 'https://github.com/Tap-Payments/TapSwiftFixesV2.git', :tag => s.version.to_s }
     s.requires_arc			= true
     s.default_subspecs		= 'CoreGraphics', 'Exceptions', 'Threading'
     
